@@ -1,4 +1,4 @@
-# 日本音響学会誌 BiBTeX スタイルファイル
+# 日本音響学会誌 BibTeX スタイルファイル
 
 jasj.bst (以下，このスタイルファイルと呼ぶ)は，日本音響学会誌, Acoustical Science and Technology 投稿規定 XI 和文誌の原稿(本文)執筆要項 2.本文 〈引用文献記載法と記載例〉に比較的近い形で参考文献リストを生成するためのものです。
 
@@ -40,7 +40,7 @@ LaTeX ソースファイルに
 \bibliographystyle{jasj}
 \bibliography{○○○}
 ```
-と記述し，BiBTeXで処理してください。○○○.bib は BiBTeX 形式の文献データベースです。
+と記述し，BibTeXで処理してください。○○○.bib は BibTeX 形式の文献データベースです。
 
 ## 音響学会誌, AST誌の引用
 

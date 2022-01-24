@@ -72,6 +72,7 @@ LaTeX ソースファイルに
 投稿規定では，日本音響学会誌は "音響学会誌", Acoustical Science and Technology誌は "Acoust Sci. & Tech." と表記することになっています。既存の文献リストをいちいち書き換えなくて済むように，それぞれマクロ jasj, ast を使うこともできます。
 
 例
+```
 @Article{Ishihara1998,
   author = 	 {石原 豊彦 and 佐山 周次 and 宮川 幸雄 and 筒井 英人},
   title = 	 {海底反射音場に関する一様漸近解},
